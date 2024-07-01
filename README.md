@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Live Demo 
+
+check out [FRONTEND LIVE DEMO](https://resto-cafe-sd.netlify.app/) here!! 
+check out [API LIVE DEMO](https://resto-cafe-backend.onrender.com) here!!
+
 ### `npm start`
 
 Runs the app in the development mode.\
